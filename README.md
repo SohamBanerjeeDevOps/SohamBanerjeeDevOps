@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SohamBanerjeeDevOps
-- 👀 I’m interested in ...lEARNING AI
+- 👀 I’m interested in ...LEARNING AI
 - 🌱 I’m currently learning ...MERN STACK WEB DEVELOPMENT, DevOps.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...banerjeecloud1@gmail.com
